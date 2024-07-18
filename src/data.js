@@ -29,12 +29,24 @@ export const projects = [
 
 export const skills = [
     
-        "Software Developer",
         "Javascript",
+    "Team Work",
         "PHP",
+    "Self Confidence",
         "Angular",
+    "Integrity",
         "Node Express",
+    "Problem Solving Skills",
         "Rest Apis",
+        "Full Stack Development",
+      
+        "React",
+    "Debugging Skills",
+        "Laravel",
+        
+        
+        
+
         
     
 ]
