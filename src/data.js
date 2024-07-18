@@ -39,10 +39,13 @@ export const skills = [
     "Problem Solving Skills",
         "Rest Apis",
         "Full Stack Development",
-      
         "React",
     "Debugging Skills",
         "Laravel",
+        "Effective Communication Skills",
+        "MySQL",
+        "Attention to Detail",
+        "CSS"
         
         
         
