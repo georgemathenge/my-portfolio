@@ -9,11 +9,12 @@ const Projects = () => {
         <div className="flex flex-col w-full mb-20">
           <CodeIcon className="mx-auto inline-block w-10 mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
-            Apps I've Built
-          </h1>
-          <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            I am priledged to have worked on some amaizing apps. Here is a sneak of apps on my catalog
-          </p>
+  Commercial Case Studies
+</h1>
+<p className="lg:w-2/3 mx-auto leading-relaxed text-base text-gray-400">
+  From government-grade internal tools to custom financial apps for small businesses. 
+  Here is how I help clients solve problems through code.
+</p>
         </div>
         <div className="flex flex-wrap -m-4">
           {projects.map((project) => (
