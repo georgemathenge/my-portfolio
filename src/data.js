@@ -21,8 +21,24 @@ export const projects = [
         subtitle: "Reporting",
         description:
             "A Dashboard developed in PHP to manage reports generated from Estate Management System - KRA" ,
-        image: "./reports.png",
+        image: "./rms-dashboard.png",
         link: "",
+    },
+    {
+        title: "Rental Management System",
+        subtitle: "Housing",
+        description:
+            "Web Application used to manage rental properties, tenants, and lease agreements. Built using Angular and Nest.js",
+        image: "./rms-dashboard.jpg",
+        link: "",
+    },
+    {
+        title: "Trades People Web App",
+        subtitle: "Services",
+        description:
+            "Web Application that connects customers with local tradespeople for home repairs and maintenance. Built using React and Node.js",
+        image: "./trades-people.jpg",
+        link: "https://tradespeople-app.vercel.app/",
     }
 ];
 
