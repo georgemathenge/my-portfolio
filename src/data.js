@@ -21,7 +21,7 @@ export const projects = [
         subtitle: "Reporting",
         description:
             "A Dashboard developed in PHP to manage reports generated from Estate Management System - KRA" ,
-        image: "./rms-dashboard.png",
+        image: "./reports.png",
         link: "",
     },
     {
